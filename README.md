@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculation Tool
 
 A bash script to calculate simple interest.
 
